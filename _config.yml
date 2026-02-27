@@ -23,7 +23,7 @@ repository               : "soeun-yang/soeun-yang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "반명함.jpg"
   name             : "Soeun Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
