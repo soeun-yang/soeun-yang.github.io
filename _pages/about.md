@@ -7,45 +7,52 @@ redirect_from:
   - /about.html
 ---
 
-Hello...
+Hello! My name is Soeun Yang. I am a Senior Research Fellow at the Media Research Center of the Korea Press Foundation.
+My research focuses on media literacy and youth media use, with increasing attention to AI environments—particularly AI literacy and AI natives.
+I examine how emerging technologies shape individuals and society, and I develop interventions that promote positive online experiences while mitigating potential harms.
 
 Research Interest Keywords
+
 ======
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
   <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">AI/Media Literacy</span>
   <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Adolescents Media Use</span>
-  <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;>Digital Citizenship</span>
-  <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Digital Identity</span>
-  <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Media Education</span>
-</div>
+  <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Digital Citizenship</span>
+  <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Emerging Media</span>
+ <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Digital Identity</span>
+ </div>
 
 
-Academic Positions
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Education
+Education & Professional Background
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I received my Ph.D. in Communication from Seoul National University in 2020. My dissertation on adolescents’ online communication and civic development was recognized with the Top Dissertation Award from the Children, Adolescents, and Media Division of the International Communication Association (ICA, 2021).
 
-Experience
+I earned my B.A. in Social Studies Education from Seoul National University. After graduation, I worked as a middle school teacher, where I developed a strong interest in adolescents’ digital media use. This experience led me to pursue graduate studies (M.A. and Ph.D.) in Communication at Seoul National 
+University.
+
+After completing my Ph.D., I joined the Center for Digital Humanities and Social Sciences at KAIST as a research professor, where I expanded my research scope through interdisciplinary projects. My work there included studies on identity in the metaverse, chatbot-based interventions, and computational approaches to media effects in digital environments.
+
+##Research Approach
 ------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+While I am trained as a communication researcher with a strong foundation in quantitative methods, particularly survey research, I am also deeply engaged in developing and implementing digital media literacy interventions using emerging technologies.
 
-**Markdown generator**
+###Selected projects (Leads)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Trust Me (2021): A digital game designed to enhance media literacy
+Facts Please (2024): A digital game for fact-checking education
+Meta4AI (2025): An LLM-based platform for assessing AI literacy
+
+###Selected Projects (Collaborator)
+Kami: A chatbot using environmental anthropomorphism to promote pro-environmental behavior
+Doppelganger LLM: An identity-trained large language model
+AI-based identity system for writing letters to one’s future self
+
+My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, where I conducted a project examining digital natives’ media use from a developmental psychology perspective (project currently on hold). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
+
+Please feel free to reach out for collaboration.
 
 Honors
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
 Example: editing a Markdown file for a talk
 ![Editing a Markdown file for a talk](/images/editing-talk.png)
 
