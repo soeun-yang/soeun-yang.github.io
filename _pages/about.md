@@ -12,7 +12,9 @@ My research focuses on media literacy and youth media use, with increasing atten
 I examine how emerging technologies shape individuals and society, and I develop interventions that promote positive online experiences while mitigating potential harms.
 
 Research Interest Keywords
-
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
+...
+</div>
 ======
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
   <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">AI/Media Literacy</span>
@@ -32,7 +34,7 @@ University.
 
 After completing my Ph.D., I joined the Center for Digital Humanities and Social Sciences at KAIST as a research professor, where I expanded my research scope through interdisciplinary projects. My work there included studies on identity in the metaverse, chatbot-based interventions, and computational approaches to media effects in digital environments.
 
-##Research Approach
+Research Approach
 ------
 While I am trained as a communication researcher with a strong foundation in quantitative methods, particularly survey research, I am also deeply engaged in developing and implementing digital media literacy interventions using emerging technologies.
 
