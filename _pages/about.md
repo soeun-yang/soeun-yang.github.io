@@ -12,9 +12,6 @@ My research focuses on media literacy and youth media use, with increasing atten
 I examine how emerging technologies shape individuals and society, and I develop interventions that promote positive online experiences while mitigating potential harms.
 
 Research Interest Keywords
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
-...
-</div>
 ======
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
   <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">AI/Media Literacy</span>
@@ -38,8 +35,8 @@ Research Approach
 ------
 While I am trained as a communication researcher with a strong foundation in quantitative methods, particularly survey research, I am also deeply engaged in developing and implementing digital media literacy interventions using emerging technologies.
 
-###Selected projects (Leads)
-
+##Selected projects (Lead)
+===
 Trust Me (2021): A digital game designed to enhance media literacy
 Facts Please (2024): A digital game for fact-checking education
 Meta4AI (2025): An LLM-based platform for assessing AI literacy
