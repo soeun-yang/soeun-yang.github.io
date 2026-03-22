@@ -1,7 +1,7 @@
 ---
 title: "From Access to Agency: The Generative AI Divide and AI Literacy (생성형 AI 활용 격차와 AI 리터러시)" 
 collection: publications
-category: Books
+category: books
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-11-30
