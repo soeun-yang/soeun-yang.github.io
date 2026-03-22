@@ -41,3 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.archive__item-title {
+  font-size: 1.1rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.archive__item-title a {
+  text-decoration: none;
+}
+
+.archive__item-title a:hover {
+  text-decoration: underline;
+}
