@@ -5,5 +5,5 @@ category: manuscripts
 excerpt: 'Jeong-woo Jang, <strong>Soeun Yang*</strong>. (2026). *Corresponding author'
 date: 2026-02-05
 venue: 'Health Communication'
-'
+
 ---
