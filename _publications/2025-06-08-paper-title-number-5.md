@@ -1,7 +1,7 @@
 ---
 title: "A Two-Wave Study of Avatar Customization and Psychological Benefits in Social Virtual Reality: The Role of Identification"
 collection: publications
-category: manuscripts
+category: books
 excerpt: 'Jeong-woo Jang, <strong>Soeun Yang*</strong>. (2026). *corresponidng author'
 date: 2026-02-05
 venue: 'Health Communication'
