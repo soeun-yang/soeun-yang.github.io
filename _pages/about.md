@@ -38,7 +38,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 <div style="display:flex; gap:24px; flex-wrap:wrap; margin-top:12px;">
 
   <div style="width:220px;">
-    <img src="/images/trustme2.png" alt="Trust Me"
+    <img src="/images/trustme2.jpg" alt="Trust Me"
          style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
     <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
       <strong>Trust Me</strong> (2021)<br>
@@ -74,7 +74,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <!-- Kami -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <img src="/images/kami.png"
-         style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+         style="width:50px; height:50px; object-fit:cover; border-radius:70%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Kami</strong><br>
       A chatbot using environmental anthropomorphism to promote pro-environmental behavior.
@@ -84,7 +84,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <!-- AI Twin -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <img src="/images/aitwinbot.png"
-         style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+         style="width:50px; height:50px; object-fit:cover; border-radius:70%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Doppelganger LLM</strong><br>
       An identity-trained large language model.
@@ -94,7 +94,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <!-- Future Self -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <img src="/images/future self.png"
-         style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+         style="width:50px; height:50px; object-fit:cover; border-radius:70%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Letters to One’s Future Self</strong><br>
       An AI-based identity system for reflective letter writing.
