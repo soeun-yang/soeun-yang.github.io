@@ -66,7 +66,6 @@ While I am trained as a communication researcher with a strong foundation in qua
 
 </div>
 
---
 <h3>Collaborative Works</h3>
 
 <div style="margin-top:12px; display:flex; flex-direction:column; gap:14px;">
@@ -74,7 +73,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <!-- Kami -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <img src="/images/kami.png"
-         style="width:70px; height:70px; object-fit:cover; border-radius:70%; border:1px solid #ddd;">
+         style="width:80px; height:80px; object-fit:cover; border-radius:70%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Kami</strong><br>
       A chatbot using environmental anthropomorphism to promote pro-environmental behavior.
@@ -84,7 +83,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <!-- AI Twin -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <img src="/images/aitwinbot.png"
-         style="width:60px; height:60px; object-fit:cover; border-radius:60%; border:1px solid #ddd;">
+         style="width:80px; height:80px; object-fit:cover; border-radius:60%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Doppelganger LLM</strong><br>
       An identity-trained large language model.
@@ -94,7 +93,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <!-- Future Self -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
     <img src="/images/future self.png"
-         style="width:60px; height:60px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+         style="width:80px; height:80px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Letters to One’s Future Self</strong><br>
       An AI-based identity system for reflective letter writing.
@@ -102,7 +101,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   </div>
 
 </div>
-
+<p style="margin-top:20px;">
 My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, where I conducted a project examining digital natives’ media use from a developmental psychology perspective (project currently on hold). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
 
 Please feel free to reach out for collaboration.
