@@ -34,11 +34,11 @@ Research Approach
 ------
 While I am trained as a communication researcher with a strong foundation in quantitative methods, particularly survey research, I am also deeply engaged in developing and implementing digital media literacy interventions using emerging technologies.
 
-<h3>Selected Projects (Lead)</h3>
+<h3>Selected Works (Lead)</h3>
 <div style="display:flex; gap:24px; flex-wrap:wrap; margin-top:12px;">
 
   <div style="width:220px;">
-    <img src="/images/trustme.png" alt="Trust Me"
+    <img src="/images/trustme2.png" alt="Trust Me"
          style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
     <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
       <strong>Trust Me</strong> (2021)<br>
@@ -66,11 +66,42 @@ While I am trained as a communication researcher with a strong foundation in qua
 
 </div>
 
-#### Selected Projects (Collaborator)
 --
-Kami: A chatbot using environmental anthropomorphism to promote pro-environmental behavior
-Doppelganger LLM: An identity-trained large language model
-AI-based identity system for writing letters to one’s future self
+<h3>Collaborative Works</h3>
+
+<div style="margin-top:12px; display:flex; flex-direction:column; gap:14px;">
+
+  <!-- Kami -->
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <img src="/images/kami.png"
+         style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+    <div style="font-size:0.95em; line-height:1.5;">
+      <strong>Kami</strong><br>
+      A chatbot using environmental anthropomorphism to promote pro-environmental behavior.
+    </div>
+  </div>
+
+  <!-- AI Twin -->
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <img src="/images/aitwinbot.png"
+         style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+    <div style="font-size:0.95em; line-height:1.5;">
+      <strong>Doppelganger LLM</strong><br>
+      An identity-trained large language model.
+    </div>
+  </div>
+
+  <!-- Future Self -->
+  <div style="display:flex; align-items:flex-start; gap:12px;">
+    <img src="/images/futureself.png"
+         style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
+    <div style="font-size:0.95em; line-height:1.5;">
+      <strong>Letters to One’s Future Self</strong><br>
+      An AI-based identity system for reflective letter writing.
+    </div>
+  </div>
+
+</div>
 
 My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, where I conducted a project examining digital natives’ media use from a developmental psychology perspective (project currently on hold). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
 
