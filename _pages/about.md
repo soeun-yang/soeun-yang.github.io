@@ -34,11 +34,35 @@ Research Approach
 ------
 While I am trained as a communication researcher with a strong foundation in quantitative methods, particularly survey research, I am also deeply engaged in developing and implementing digital media literacy interventions using emerging technologies.
 
-#### Selected projects (Lead)
---
-Trust Me (2021): A digital game designed to enhance media literacy
-Facts Please (2024): A digital game for fact-checking education
-Meta4AI (2025): An LLM-based platform for assessing AI literacy
+<h3>Selected Projects (Lead)</h3>
+
+<div style="display:flex; gap:24px; flex-wrap:wrap; margin-top:12px;">
+
+  <div style="width:220px;">
+    <img src="/images/trustme.png" alt="Trust Me" style="width:100%; border-radius:12px; border:1px solid #ddd;">
+    <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
+      <strong>Trust Me</strong> (2021)<br>
+      A digital game designed to enhance media literacy.
+    </p>
+  </div>
+
+  <div style="width:220px;">
+    <img src="/images/factsplease.png" alt="Facts Please" style="width:100%; border-radius:12px; border:1px solid #ddd;">
+    <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
+      <strong>Facts Please</strong> (2024)<br>
+      A digital game for fact-checking education.
+    </p>
+  </div>
+
+  <div style="width:220px;">
+    <img src="/images/meta4ai.png" alt="Meta4AI" style="width:100%; border-radius:12px; border:1px solid #ddd;">
+    <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
+      <strong>Meta4AI</strong> (2025)<br>
+      An LLM-based platform for assessing AI literacy.
+    </p>
+  </div>
+
+</div>
 
 #### Selected Projects (Collaborator)
 --
