@@ -39,7 +39,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 
   <div style="width:220px;">
     <img src="/images/trustme.png" alt="Trust Me"
-         style="width:100%; height:140px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
+         style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
     <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
       <strong>Trust Me</strong> (2021)<br>
       A digital game designed to enhance media literacy.
@@ -48,7 +48,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 
   <div style="width:220px;">
     <img src="/images/factsplease.png" alt="Facts Please"
-         style="width:100%; height:140px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
+         style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
     <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
       <strong>Facts Please</strong> (2024)<br>
       A digital game for fact-checking education.
@@ -57,7 +57,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 
   <div style="width:220px;">
     <img src="/images/ChatGPT Image 2026년 1월 15일 오전 10_29_10.png" alt="Meta4AI"
-         style="width:100%; height:140px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
+         style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
     <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
       <strong>Meta4AI</strong> (2025)<br>
       An LLM-based platform for assessing AI literacy.
