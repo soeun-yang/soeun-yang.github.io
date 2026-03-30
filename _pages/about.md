@@ -11,7 +11,7 @@ redirect_from:
 Hello! My name is Soeun Yang. I am a Senior Research Fellow at the Media Research Center of the Korea Press Foundation.
 My research focuses on media literacy and youth media use, with increasing attention to AI environments—particularly AI literacy and AI natives.
 I examine how emerging technologies shape individuals and society, and I develop interventions that promote positive online experiences while mitigating potential harms.
-
+ 
 <div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:10px;">
   <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">AI/Media Literacy</span>
   <span style="border:1px solid #ddd; padding:6px 10px; border-radius:999px;">Adolescents Media Use</span>
