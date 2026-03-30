@@ -93,7 +93,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 
   <!-- Future Self -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
-    <img src="/images/futureself.png"
+    <img src="/images/future self.png"
          style="width:50px; height:50px; object-fit:cover; border-radius:50%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Letters to One’s Future Self</strong><br>
