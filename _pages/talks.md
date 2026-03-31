@@ -9,7 +9,15 @@ author_profile: true
 <h3>Invited Talks</h3>
 
 <div style="margin-top:12px; display:flex; flex-direction:column; gap:16px;">
-
+<div>
+  <div style="font-weight:600;">
+    Identity Exploration through Social Media Use among Adolescents: Conditions and Pathways for Positive Development
+  </div>
+  <div style="font-size:0.85em; color:#777; margin-top:4px;">
+    Symposium on Social Media Use and Mental Health among Children and Adolescents (SNU SSK Research Group on Digital Communication and Sustainability), 2026
+  </div>
+</div>
+  
   <div>
     <div style="font-weight:600;">
       Digital Divide and Media Literacy as Life Skills in the Era of Digital Transformation
