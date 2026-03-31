@@ -9,9 +9,9 @@ author_profile: true
 
 - **AI Literacy in the Age of Generative AI**  
   Korea Press Foundation, 2025
-- 미래학회
-- SNS
 
+- Identity Exploration through Social Media Use among Adolescents: Conditions and Pathways for Positive Development  
+  <span style="font-size:0.85em; color:#777;">Symposium on Social Media Use and Mental Health among Children and Adolescents (Seoul National University SSK Research Group on Digital Communication and Sustainability & Korean Society for Journalism and Communication Studies), 2026</span>
 
 - Digital Divide and Media Literacy as Life Skills in the Era of Digital Transformation  
   <span style="font-size:0.85em; color:#777;">Policy Seminar: The Future of Blockchain and the Internet (Hashed Open Research), 2022</span>
