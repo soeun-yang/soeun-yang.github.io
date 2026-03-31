@@ -6,21 +6,45 @@ author_profile: true
 ---
 
 ## Invited Talks
+<h3>Invited Talks</h3>
 
-- **AI Literacy in the Age of Generative AI**  
-  Korea Press Foundation, 2025
+<div style="margin-top:12px; display:flex; flex-direction:column; gap:16px;">
 
-- Identity Exploration through Social Media Use among Adolescents: Conditions and Pathways for Positive Development  
-  <span style="font-size:0.85em; color:#777;">Symposium on Social Media Use and Mental Health among Children and Adolescents (Seoul National University SSK Research Group on Digital Communication and Sustainability & Korean Society for Journalism and Communication Studies), 2026</span>
+  <div>
+    <div style="font-weight:600;">
+      Digital Divide and Media Literacy as Life Skills in the Era of Digital Transformation
+    </div>
+    <div style="font-size:0.85em; color:#777; margin-top:4px;">
+      Policy Seminar: The Future of Blockchain and the Internet (Hashed Open Research), 2022
+    </div>
+  </div>
 
-- Digital Divide and Media Literacy as Life Skills in the Era of Digital Transformation  
-  <span style="font-size:0.85em; color:#777;">Policy Seminar: The Future of Blockchain and the Internet (Hashed Open Research), 2022</span>
+  <div>
+    <div style="font-weight:600;">
+      Media Literacy from the Perspective of Communication
+    </div>
+    <div style="font-size:0.85em; color:#777; margin-top:4px;">
+      Emerging Scholars Forum, Seoul National University Institute of Communication Research, 2021
+    </div>
+  </div>
 
-- Media Literacy from the Perspective of Communication  
-  <span style="font-size:0.85em; color:#777;">Emerging Scholars Forum, Seoul National University Institute of Communication Research, 2021</span>
+  <div>
+    <div style="font-weight:600;">
+      Fact-Check Education: Connecting the Perspectives of News Producers and News Users
+    </div>
+    <div style="font-size:0.85em; color:#777; margin-top:4px;">
+      KPF Journalism Conference (Korea Press Foundation), 2020
+    </div>
+  </div>
 
-- Fact-Check Education: Connecting the Perspectives of News Producers and News Users  
-  <span style="font-size:0.85em; color:#777;">KPF Journalism Conference (Korea Press Foundation), 2020</span>
+</div>
+
+<div style="font-weight:600;">
+  Media Literacy from the Perspective of Communication
+</div>
+<div style="font-size:0.82em; color:#777;">
+  Emerging Scholars Forum, 2021
+</div>
 
 ## Conference Presentations
 
