@@ -11,9 +11,16 @@ author_profile: true
   Korea Press Foundation, 2025
 - 미래학회
 - SNS
-- 카이스트때
-- 미디어리터러시
-- 저널리즘컨퍼런스
+
+
+- Digital Divide and Media Literacy as Life Skills in the Era of Digital Transformation  
+  <span style="font-size:0.85em; color:#777;">Policy Seminar: The Future of Blockchain and the Internet (Hashed Open Research), 2022</span>
+
+- Media Literacy from the Perspective of Communication  
+  <span style="font-size:0.85em; color:#777;">Emerging Scholars Forum, Seoul National University Institute of Communication Research, 2021</span>
+
+- Fact-Check Education: Connecting the Perspectives of News Producers and News Users  
+  <span style="font-size:0.85em; color:#777;">KPF Journalism Conference (Korea Press Foundation), 2020</span>
 
 ## Conference Presentations
 
