@@ -116,7 +116,7 @@ While I am trained as a communication researcher with a strong foundation in qua
     </div>
   <div style="margin-top:6px; display:flex; gap:5px;">
   <a href="https://dl.acm.org/doi/full/10.1145/3706598.3714206" target="_blank" class="project-btn">Article</a>
-  <a href="#" target="_blank" class="project-btn">Media</a>
+  <a href="https://www.joongang.co.kr/article/25331159" target="_blank" class="project-btn">Media</a>
 </div>
   </div>
 
