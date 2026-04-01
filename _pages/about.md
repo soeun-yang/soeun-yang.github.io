@@ -45,6 +45,9 @@ While I am trained as a communication researcher with a strong foundation in qua
       A digital game designed to enhance media literacy.
     </p>
   </div>
+<div style="margin-top:8px; display:flex; gap:6px;">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131520302554" target="_blank" class="project-btn">Article</a>
+ </div>
 
   <div style="width:220px;">
     <img src="/images/factsplease.png" alt="Facts Please"
@@ -54,6 +57,10 @@ While I am trained as a communication researcher with a strong foundation in qua
       A digital game for fact-checking education.
     </p>
   </div>
+<div style="margin-top:8px; display:flex; gap:6px;">
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131524001507" target="_blank" class="project-btn">Article</a>
+  <a href="https://dadoc.or.kr/3180" target="_blank" class="project-btn">Media</a>
+</div>
 
   <div style="width:220px;">
     <img src="/images/ChatGPT Image 2026년 1월 15일 오전 10_29_10.png" alt="Meta4AI"
@@ -63,7 +70,10 @@ While I am trained as a communication researcher with a strong foundation in qua
       An LLM-based platform for assessing AI literacy.
     </p>
   </div>
-
+<div style="margin-top:8px; display:flex; gap:6px;">
+  <a href="https://www.kpf.or.kr/front/research/selfDetail.do?miv_pageNo=1&miv_pageSize=&total_cnt=&LISTOP=&mode=W&seq=600276&link_g_topmenu_id=676f2f0f377b4b19840685a46f69a233&link_g_submenu_id=a36215d6b1b6484eaa30d9aea34fb199&link_g_homepage=F&reg_stadt=&reg_enddt=&searchkey=all1&searchtxt=" target="_blank" class="project-btn">Article</a>
+  <a href="https://www.yna.co.kr/view/AKR20260204076500005" target="_blank" class="project-btn">Media</a>
+</div>
 </div>
 
 <h3>Collaborative Works</h3>
