@@ -103,7 +103,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <a href="https://arxiv.org/abs/2502.08599" target="_blank" class="project-btn">Article</a>
     </div>
  </div>
-  </div>
+
 
   <!-- Future Self -->
   <div style="display:flex; align-items:flex-start; gap:12px;">
@@ -117,9 +117,8 @@ While I am trained as a communication researcher with a strong foundation in qua
   <a href="https://www.joongang.co.kr/article/25331159" target="_blank" class="project-btn">Media</a>
 </div>
 </div>
-  </div>
 
-</div>
+
 <p style="margin-top:20px;">
 My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, where I conducted a project examining digital natives’ media use from a developmental psychology perspective (project currently on hold). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
 
