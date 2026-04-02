@@ -87,9 +87,9 @@ While I am trained as a communication researcher with a strong foundation in qua
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Kami</strong><br>
       A chatbot using environmental anthropomorphism to promote pro-environmental behavior.
-    </div>
-<div style="margin-top:0px; display:flex; gap:5px;">
+   <div style="margin-top:0px; display:flex; gap:5px;">
   <a href="https://journals.sagepub.com/doi/abs/10.1177/0958305X251343056" target="_blank" class="project-btn">Article</a>
+ </div>
 </div>
   </div>
 
@@ -100,9 +100,9 @@ While I am trained as a communication researcher with a strong foundation in qua
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Doppelganger LLM</strong><br>
       An identity-trained large language model.
-    </div>
 <div style="margin-top:0px; display:flex; gap:5px;">
   <a href="https://arxiv.org/abs/2502.08599" target="_blank" class="project-btn">Article</a>
+    </div>
  </div>
   </div>
 
@@ -113,10 +113,10 @@ While I am trained as a communication researcher with a strong foundation in qua
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Letters to One’s Future Self</strong><br>
       An AI-based identity system for reflective letter writing.
-    </div>
-  <div style="margin-top:0px; display:flex; gap:5px;">
+      <div style="margin-top:0px; display:flex; gap:5px;">
   <a href="https://dl.acm.org/doi/full/10.1145/3706598.3714206" target="_blank" class="project-btn">Article</a>
   <a href="https://www.joongang.co.kr/article/25331159" target="_blank" class="project-btn">Media</a>
+</div>
 </div>
   </div>
 
