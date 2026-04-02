@@ -52,11 +52,11 @@ While I am trained as a communication researcher with a strong foundation in qua
   <div style="width:220px;">
     <img src="/images/factsplease.png" alt="Facts Please"
          style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
-    <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
+    <p style="margin-top:10px; margin-bottom:0; font-size:0.95em; line-height:1.5;">
       <strong>Facts Please</strong> (2024)<br>
       A digital game for fact-checking education.
     </p>
-<div style="margin-top:6px; display:flex; gap:5px;">
+<div style="margin-top:6px; margin-bottom:0; display:flex; gap:5px;">
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131524001507" target="_blank" class="project-btn">Article</a>
   <a href="https://dadoc.or.kr/3180" target="_blank" class="project-btn">Media</a>
 </div>
@@ -65,7 +65,7 @@ While I am trained as a communication researcher with a strong foundation in qua
   <div style="width:220px;">
     <img src="/images/ChatGPT Image 2026년 1월 15일 오전 10_29_10.png" alt="Meta4AI"
          style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
-    <p style="margin-top:10px; font-size:0.95em; line-height:1.5;">
+    <p style="margin-top:10px; margin-bottom:0; font-size:0.95em; line-height:1.5;">
       <strong>Meta4AI</strong> (2025)<br>
       An LLM-based platform for assessing AI literacy.
     </p>
@@ -87,7 +87,7 @@ While I am trained as a communication researcher with a strong foundation in qua
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Kami</strong><br>
       A chatbot using environmental anthropomorphism to promote pro-environmental behavior.
-   <div style="margin-top:0px; display:flex; gap:5px;">
+   <div style="margin-top:6px; display:flex; gap:5px;">
   <a href="https://journals.sagepub.com/doi/abs/10.1177/0958305X251343056" target="_blank" class="project-btn">Article</a>
  </div>
 </div>
@@ -100,7 +100,7 @@ While I am trained as a communication researcher with a strong foundation in qua
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Doppelganger LLM</strong><br>
       An identity-trained large language model.
-<div style="margin-top:0px; display:flex; gap:5px;">
+<div style="margin-top:6px; display:flex; gap:5px;">
   <a href="https://arxiv.org/abs/2502.08599" target="_blank" class="project-btn">Article</a>
     </div>
  </div>
@@ -113,7 +113,7 @@ While I am trained as a communication researcher with a strong foundation in qua
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Letters to One’s Future Self</strong><br>
       An AI-based identity system for reflective letter writing.
-      <div style="margin-top:0px; display:flex; gap:5px;">
+      <div style="margin-top:6px; display:flex; gap:5px;">
   <a href="https://dl.acm.org/doi/full/10.1145/3706598.3714206" target="_blank" class="project-btn">Article</a>
   <a href="https://www.joongang.co.kr/article/25331159" target="_blank" class="project-btn">Media</a>
 </div>
