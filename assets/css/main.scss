@@ -88,6 +88,7 @@
   padding: 0 20px;
 }
 .author__avatar {
+  margin-bottom: 1em !important;
   border: 0 !important;
   padding: 0 !important;
   box-shadow: none !important;
@@ -99,7 +100,7 @@
   max-width: 180px !important;
   height: 220px !important;
   object-fit: cover !important;
-  border-radius: 10px !important;
+  border-radius: 0 !important;
   border: 0 !important;
   box-shadow: none !important;
 }
