@@ -106,7 +106,7 @@
   box-shadow: none !important;
 }
 .author__avatar img {
-  mask-image: radial-gradient(circle, black 75%, transparent 100%);
+  box-shadow: 0 20px 30px -20px rgba(0,0,0,0.3);
 }
 .author__name {
   display: none !important;
@@ -127,5 +127,5 @@
 
 .page__title,
 .archive__item-title {
-  margin-top: 30px !important;
+  margin-top: 35px !important;
 }
