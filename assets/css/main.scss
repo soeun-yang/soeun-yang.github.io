@@ -104,6 +104,8 @@
   border-radius: 0 !important;
   border: 0 !important;
   box-shadow: none !important;
+     -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent);
+  mask-image: linear-gradient(to bottom, black 85%, transparent);
 }
 
 .author__name {
