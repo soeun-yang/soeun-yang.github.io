@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Soeun Yang. I am a Senior Research Fellow at the Media Research Center of the Korea Press Foundation.
+Hello! My name is Soeun Yang. I am a Senior Researcher at the Media Research Center of the Korea Press Foundation.
 My research focuses on media literacy and youth media use, with increasing attention to AI environments—particularly AI literacy and AI natives.
 I examine how emerging technologies shape individuals and society, and I develop interventions that promote positive online experiences while mitigating potential harms.
  
