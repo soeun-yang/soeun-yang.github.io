@@ -100,7 +100,9 @@ While I am trained as a communication researcher with a strong foundation in qua
       <strong>Doppelganger LLM</strong><br>
       An identity-trained large language model.
 
-  <a href="https://arxiv.org/abs/2502.08599" target="_blank" class="project-btn">Article</a>
+  <a href="https://arxiv.org/abs/2502.08599" target="_blank" class="project-btn">Article1</a>
+   <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12590560" target="_blank" class="project-btn">Article2</a>
+ 
     </div>
  </div>
 
