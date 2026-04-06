@@ -87,36 +87,36 @@
   margin: 0 auto;
   padding: 0 20px;
 }
-
-/* 상단 이름 위치 조정 */
-.greedy-nav .site-title {
-  margin-left: 110px !important;
-  padding-left: 0 !important;
-}
-
-.greedy-nav .visible-links {
-  margin-left: 32px !important;
-}
-
-/* 프로필 사진 */
-.sidebar .author__avatar {
-  width: 180px !important;
-  max-width: none !important;
-  border: none !important;
-  box-shadow: none !important;
+.author__avatar {
+  border: 0 !important;
   padding: 0 !important;
+  box-shadow: none !important;
+  max-width: none !important;
 }
 
-.sidebar .author__avatar img {
+.author__avatar img {
   width: 180px !important;
+  max-width: 180px !important;
   height: 220px !important;
   object-fit: cover !important;
   border-radius: 10px !important;
-  border: none !important;
+  border: 0 !important;
   box-shadow: none !important;
 }
 
-/* 사진 아래 이름 제거 */
 .author__name {
   display: none !important;
+}
+
+.greedy-nav {
+  justify-content: flex-start !important;
+}
+
+.greedy-nav .site-title {
+  margin: 0 60px 0 110px !important;
+  padding: 0 !important;
+}
+
+.greedy-nav .visible-links {
+  margin-left: 0 !important;
 }
