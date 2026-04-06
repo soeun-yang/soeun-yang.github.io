@@ -92,7 +92,7 @@
 
 .greedy-nav .site-title {
   margin-left: 0;
-  padding-left: 0;
+  padding-left: 20px;
 }
 
 
@@ -101,4 +101,7 @@
   height: 170px;
   border-radius: 8px;
   object-fit: cover;
+}
+.author__name {
+  display: none;
 }
