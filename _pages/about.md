@@ -120,11 +120,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 
 
 <p style="margin-top:20px;">
-My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, where I conducted a project examining digital natives’ media use from a developmental psychology perspective (project currently on hold). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
+My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, supporting a project on digital natives’ media use from a developmental psychology perspective (later paused upon my appointment at the Korea Press Foundation). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
 
-Please feel free to reach out for collaboration.
-
-Honors
-------
-
+Happy to connect with others who share similar research interests.
 
