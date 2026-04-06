@@ -82,30 +82,41 @@
   list-style: none;
   padding-left: 0;
 }
-
 .masthead__inner-wrap {
   max-width: 1100px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
+/* 상단 이름 위치 조정 */
 .greedy-nav .site-title {
-  margin-left: 0 !important;
-  padding-left: 20px !important;
+  margin-left: 110px !important;
+  padding-left: 0 !important;
 }
 
+.greedy-nav .visible-links {
+  margin-left: 32px !important;
+}
+
+/* 프로필 사진 */
 .sidebar .author__avatar {
-  width: 170px !important;
+  width: 180px !important;
   max-width: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
 }
 
 .sidebar .author__avatar img {
-  width: 170px !important;
-  height: 170px !important;
-  border-radius: 8px !important;
+  width: 180px !important;
+  height: 220px !important;
   object-fit: cover !important;
+  border-radius: 10px !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 
+/* 사진 아래 이름 제거 */
 .author__name {
   display: none !important;
 }
