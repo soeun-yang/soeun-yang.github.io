@@ -105,8 +105,10 @@
   border: 0 !important;
   box-shadow: 0 20px 30px -20px rgba(0,0,0,0.3) !important;
 }
+
 .author__avatar img {
-  box-shadow: 0 20px 30px -20px rgba(0,0,0,0.3);
+  -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent);
+  mask-image: linear-gradient(to bottom, black 85%, transparent);
 }
 .author__name {
   display: none !important;
