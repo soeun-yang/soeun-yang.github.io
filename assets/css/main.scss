@@ -129,3 +129,13 @@
 .archive__item-title {
   margin-top: 35px !important;
 }
+
+.page__footer-follow,
+.page__footer-copyright,
+.page__footer .nav__list {
+  display: none !important;
+}
+.page__footer {
+  background: #fafafa !important;
+  border-top: 1px solid #e5e5e5;
+}
