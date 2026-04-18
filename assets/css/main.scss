@@ -137,15 +137,16 @@
   border-top: 1px solid #e5e5e5;
 }
 
-.page__footer-follow {
+.page__footer-follow,
+.page__footer .nav__title,
+.page__footer h4,
+.page__footer .page__footer-heading,
+.page__footer footer > :first-child {
   display: none !important;
 }
 
-.page__footer .nav__title,
-.page__footer h4,
-.page__footer .page__footer-heading {
-  display: none !important;
-}
-.page__footer h4 {
-  display: none !important;
+.page__footer-copyright {
+  text-align: right !important;
+  font-size: 0.95em;
+  line-height: 1.6;
 }
