@@ -13,7 +13,7 @@ author_profile: true
     Identity Exploration through Social Media Use among Adolescents: Conditions and Pathways for Positive Development
   </div>
   <div style="font-size:0.85em; color:#777; margin-top:4px;">
-    Symposium on Social Media Use and Mental Health among Children and Adolescents (SNU SSK Research Group on Digital Communication and Sustainability), 2026
+    Symposium on Social Media Use and Mental Health among Children and Adolescents, SNU SSK Research Group on Digital Communication and Sustainability, 2026
   </div>
 </div>
   
@@ -22,7 +22,7 @@ author_profile: true
       Digital Divide and Media Literacy as Life Skills in the Era of Digital Transformation
     </div>
     <div style="font-size:0.85em; color:#777; margin-top:4px;">
-      Policy Seminar: The Future of Blockchain and the Internet (Hashed Open Research), 2022
+      Policy Seminar: The Future of Blockchain and the Internet, Hashed Open Research, 2022
     </div>
   </div>
 
@@ -31,7 +31,7 @@ author_profile: true
       Media Literacy from the Perspective of Communication
     </div>
     <div style="font-size:0.85em; color:#777; margin-top:4px;">
-      Emerging Scholars Forum, Seoul National University Institute of Communication Research, 2021
+      Emerging Scholars Forum, Institute of Communication Research, Seoul National University, 2021
     </div>
   </div>
 
@@ -40,7 +40,7 @@ author_profile: true
       Fact-Check Education: Connecting the Perspectives of News Producers and News Users
     </div>
     <div style="font-size:0.85em; color:#777; margin-top:4px;">
-      KPF Journalism Conference (Korea Press Foundation), 2020
+      KPF Journalism Conference, Korea Press Foundation, 2020
     </div>
   </div>
 
