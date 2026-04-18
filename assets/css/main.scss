@@ -107,9 +107,9 @@
 }
 
 .author__avatar img {
-  mask-image: radial-gradient(circle, black 75%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to bottom, black 85%, transparent);
+  mask-image: linear-gradient(to bottom, black 85%, transparent);
 }
-
 
 .author__name {
   display: none !important;
