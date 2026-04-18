@@ -111,6 +111,9 @@
   mask-image: linear-gradient(to bottom, black 85%, transparent);
 }
 
+.author__avatar img {
+  filter: saturate(80%) contrast(95%) brightness(0.98);
+}
 .author__name {
   display: none !important;
 }
