@@ -59,40 +59,40 @@ author_profile: true
 ### International
 
 A New Developmental Space for Self-Discovery: Digital-Based Identity Exploration  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Denver, CO), 2025 · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Denver, CO), 2025</span>
 
 Simulating Conversations with Nature: The Effects of an Anthropomorphic Chatbot on Climate Attitudes and Intentions  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Gold Coast, Australia), 2024 · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Gold Coast, Australia), 2024</span>
 
 The Double-Edged Influence of Self-Expansion in the Metaverse: A Two-Wave Panel Assessment of Identity Perception, Self-Esteem, and Life Satisfaction  
   <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Gold Coast, Australia), 2024</span>
 
 Exposure and Elaboration: The Conditional Effect of Fact-Checking on Misinformation Accuracy Perception  
-  <span style="font-size:0.85em; color:#777;">AEJMC Annual Conference (Washington, DC), 2023 · Poster · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">AEJMC Annual Conference (Washington, DC), 2023 · Poster </span>
 
 Media Literacy Interventions Don’t Work for Everyone: Understanding the Moderation Effect of Skepticism on Combating Misinformation  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Toronto, Canada), 2023 · Poster · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Toronto, Canada), 2023 · Poster </span>
 
 Understanding Older Adults’ Internet Use and Psychological Benefits: The Moderating Role of Digital Skills  
   <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Toronto, Canada), 2023</span>
 
 From News Exposure to Civic Engagement: How Media Literacy Influences the Path  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Paris, France), 2022 · Pre-conference · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Paris, France), 2022 · Pre-conference</span>
 
 Inoculation Against Misinformation Through Efficacy Enhancing Messages: Applying EPPM to Media Literacy Intervention  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Paris, France), 2022 · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Paris, France), 2022</span>
 
 Designing an Effective Media Literacy Education Program: The Complementary Relationship Between Game and Lecture in Teaching Information Discernment  
   <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Paris, France), 2022</span>
 
 Conditions for Encouraging Healthy Civic Engagement and Cultural Tolerance in Participatory Media Environments  
-  <span style="font-size:0.85em; color:#777;">NCA Annual Conference (Seattle, WA), 2021 · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">NCA Annual Conference (Seattle, WA), 2021 </span>
 
 Trust Me!: Fighting Mis-/Disinformation One Game at a Time  
   <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Virtual), 2020</span>
 
 The Effect of Media Use for Social Interaction on Adolescents’ Depression, Life Satisfaction, and Social Withdrawal  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Virtual), 2020 · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Virtual), 2020</span>
 
 The Effectiveness of Information Literacy Education: Lessons from a Korean Case  
   <span style="font-size:0.85em; color:#777;">UNESCO Global MIL Week Feature Conference (Gothenburg, Sweden), 2019</span>
@@ -107,7 +107,7 @@ What Makes Adolescents More Engaged Citizens? The Effects of Skill, Information,
   <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Fukuoka, Japan), 2016</span>
 
 Differences in Friendship Networks and Experiences of Cyberbullying among Korean and Australian Adolescents  
-  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Fukuoka, Japan), 2016 · presented by co-author</span>
+  <span style="font-size:0.85em; color:#777;">ICA Annual Conference (Fukuoka, Japan), 2016 </span>
 
 Internet Literacy and Digital Natives’ Civic Engagement: Internet Skill Literacy or Information Literacy?  
   <span style="font-size:0.85em; color:#777;">IAMCR Annual Conference (Dublin, Ireland), 2013</span>
