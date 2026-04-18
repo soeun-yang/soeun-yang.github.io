@@ -47,12 +47,6 @@ author_profile: true
 
 </div>
 
-<div style="font-weight:600;">
-  Media Literacy from the Perspective of Communication
-</div>
-<div style="font-size:0.82em; color:#777;">
-  Emerging Scholars Forum, 2021
-</div>
 
 ## Conference Presentations
 
