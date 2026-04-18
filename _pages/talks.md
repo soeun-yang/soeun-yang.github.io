@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Invited Talks
-<h3>Invited Talks</h3>
 
 <div style="margin-top:12px; display:flex; flex-direction:column; gap:16px;">
 <div>
