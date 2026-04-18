@@ -1,5 +1,5 @@
 ---
-title: "Media Communication (매체의사소통)"
+title: "Media Communication  <br><span style='font-size:0.9em; color:#666;'>매체의사소통</span>"
 collection: publications
 category: books
 date: 2024-01-01
