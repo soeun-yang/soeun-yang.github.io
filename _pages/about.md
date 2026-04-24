@@ -53,7 +53,7 @@ I am a communication researcher with strong training in quantitative methods, pa
          style="width:100%; height:180px; object-fit:cover; border-radius:12px; border:1px solid #ddd;">
     <p style="margin-top:10px; margin-bottom:0; font-size:0.95em; line-height:1.5;">
       <strong>Facts Please</strong> (2024)<br>
-      A digital game for fact-checking education.
+      A digital game designed to fact-checking education.
     </p>
 <div style="margin-top:6px; display:flex; gap:5px;">
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131524001507" target="_blank" class="project-btn">Article</a>
@@ -85,7 +85,7 @@ I am a communication researcher with strong training in quantitative methods, pa
          style="width:80px; height:80px; object-fit:cover; border-radius:70%; border:1px solid #ddd;">
     <div style="font-size:0.95em; line-height:1.5;">
       <strong>Kami</strong><br>
-      A chatbot using environmental anthropomorphism to promote pro-environmental behavior.
+      A chatbot that uses environmental anthropomorphism to promote pro-environmental behavior.
   <a href="https://journals.sagepub.com/doi/abs/10.1177/0958305X251343056" target="_blank" class="project-btn">Article</a>
  </div>
 </div>
