@@ -23,16 +23,15 @@ I examine how emerging technologies shape individuals and society, and I develop
 
 Education & Professional Background
 ------
-I received my Ph.D. in Communication from Seoul National University in 2020. My dissertation on adolescents’ online communication and civic development was recognized with the Top Dissertation Award from the Children, Adolescents, and Media Division of the International Communication Association (ICA, 2021).
+I earned my B.A. in Social Studies Education from Seoul National University. After graduation, I worked as a middle school teacher, where I developed a strong interest in adolescents’ digital media use. 
 
-I earned my B.A. in Social Studies Education from Seoul National University. After graduation, I worked as a middle school teacher, where I developed a strong interest in adolescents’ digital media use. This experience led me to pursue graduate studies (M.A. and Ph.D.) in Communication at Seoul National 
-University.
+I received my Ph.D. in Communication from Seoul National University in 2020. My dissertation on adolescents’ online communication and civic development was recognized with the Top Dissertation Award from the Children, Adolescents, and Media Division of the International Communication Association (ICA, 2021).
 
 After completing my Ph.D., I joined the Center for Digital Humanities and Social Sciences at KAIST as a research professor, where I expanded my research scope through interdisciplinary projects. My work there included studies on identity in the metaverse, chatbot-based interventions, and computational approaches to media effects in digital environments.
 
 Research Approach
 ------
-While I am trained as a communication researcher with a strong foundation in quantitative methods, particularly survey research, I am also deeply engaged in developing and implementing digital media literacy interventions using emerging technologies.
+I am a communication researcher with strong training in quantitative methods, particularly survey research. My work also focuses on the development and implementation of digital media literacy interventions, often leveraging emerging technologies to support more effective and scalable approaches. 
 
 <h3>Selected Works (Lead)</h3>
 <div style="display:flex; gap:24px; flex-wrap:wrap; margin-top:12px;">
@@ -122,7 +121,7 @@ While I am trained as a communication researcher with a strong foundation in qua
 
 
 <p style="margin-top:20px;">
-My research takes an interdisciplinary approach, drawing on media studies, education, and psychology to better understand youth in digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea, supporting a project on digital natives’ media use from a developmental psychology perspective (later paused upon my appointment at the Korea Press Foundation). I am particularly interested in collaborative research that bridges theoretical inquiry and practical intervention design.
+My research is interdisciplinary, drawing on media studies, education, and psychology to better understand how young people navigate digital environments. I was awarded a five-year research fellowship from the National Research Foundation of Korea to support a project examining digital natives’ media use from a developmental psychology perspective (later paused upon my appointment at the Korea Press Foundation). More broadly, I am interested in collaborative research that connects theoretical inquiry with practical intervention design.  
 <p style="margin-top:10px;">
-Happy to connect with others who share similar research interests.
+I welcome opportunities to connect with others working in related areas. 
 
