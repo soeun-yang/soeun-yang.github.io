@@ -8,6 +8,15 @@ author_profile: true
 ## Invited Talks
 
 <div style="margin-top:12px; display:flex; flex-direction:column; gap:16px;">
+  <div>
+  <div style="font-weight:600;">
+    AI Literacy in the Generative AI Era
+  </div>
+  <div style="font-size:0.85em; color:#777; margin-top:4px;">
+    Zoom Seminar, World Association for Triple Helix and Future Strategy Studies, 2026
+  </div>
+</div>
+  
 <div>
   <div style="font-weight:600;">
     Identity Exploration through Social Media Use among Adolescents: Conditions and Pathways for Positive Development
