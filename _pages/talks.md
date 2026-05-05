@@ -115,7 +115,9 @@ Internet Literacy and Digital Natives’ Civic Engagement: Internet Skill Litera
   <span style="font-size:0.85em; color:#777;">IAMCR Annual Conference (Dublin, Ireland), 2013</span>
   
 ### Domestic
-
+사고 성향과 메타인지적 전략이 생성형 AI 활용 과정에 미치는 영향: 과제 수행 기반 AI 리터러시 연구
+  <span style="font-size:0.85em; color:#777;">한국언론학회 봄철 정기 학술대회 (여수), 2026</span>
+  
 청소년의 디지털 미디어 기반 자아 표현과 정체성 확장: 디지털 다이어리 연구  
   <span style="font-size:0.85em; color:#777;">한국언론학회 봄철 정기 학술대회 (서울), 2025</span>
 
